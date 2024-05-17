@@ -223,11 +223,24 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ---
 
-## Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+## <a href="https://fg2024.ieee-biometrics.org/" target="_blank">Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" /></a>
 
 <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
+
+<details open>
+<summary>List of sections<a id="sections"></a></summary>
+
+- [Face Biometrics](#face-biometrics)
+
+</details>
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Face Biometrics
 
 > Will soon be added
 
