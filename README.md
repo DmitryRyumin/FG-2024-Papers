@@ -254,7 +254,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Best Reviewed Papers
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| An Active-Gaze Morphable Model for 3D Gaze Estimation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Occluded Person Retrieval with Hierarchical Feature Optimization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| High-Resolution Image Enumeration for Low-Resolution Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| OpenThermalPose: An Open-Source Annotated Thermal Human Pose Dataset and Initial YOLOv8-Pose Baselines | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
@@ -262,7 +269,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Best Reviewed Student Papers
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| A Unified Model for Gaze Following and Social Gaze Prediction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.08318-b31b1b.svg)](https://arxiv.org/abs/2403.08318) | :heavy_minus_sign: |
+| ClipSwap: Towards High Fidelity Face Swapping via Attribute and CLIP-Informed Loss | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Multi-Modal Human Behaviour Graph Representation Learning for Automatic Depression Assessment | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
