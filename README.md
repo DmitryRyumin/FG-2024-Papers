@@ -85,3 +85,15 @@
     </td>
   </tr>
 </table>
+
+---
+
+FG 2024 Papers: Explore a comprehensive collection of innovative research papers presented at [*FG 2024*](https://fg2024.ieee-biometrics.org/), one of the premier conferences on automatic face and gesture recognition. Seamlessly integrate code implementations for better understanding. ⭐ Experience the cutting edge of progress in facial analysis, gesture recognition, and biometrics with this repository!
+
+<p align="center">
+    <a href="https://fg2024.ieee-biometrics.org/" target="_blank">
+        <img width="600" src="https://github.com/DmitryRyumin/FG-2024-Papers/blob/main/images/FG2024-banner.png" alt="FG 2024">
+    </a>
+<p>
+
+---
