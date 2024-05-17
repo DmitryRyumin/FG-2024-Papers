@@ -232,7 +232,16 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
+- [Best Reviewed Papers](#best-reviewed-papers)
+- [Best Reviewed Student Papers](#best-reviewed-student-papers)
 - [Face Biometrics](#face-biometrics)
+- [Facial Expressions](#facial-expressions)
+- [Human Pose and Motion](#human-pose-and-motion)
+- [Gait and Action](#gait-and-action)
+- [Hand and Sign Language](#hand-and-sign-language)
+- [Animation, Synthesis and Self-Supervision](#animation-synthesis-and-self-supervision)
+- [Posters](#posters)
+- [Demo presentation](#demo-presentation)
 
 </details>
 
@@ -240,7 +249,79 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
+### Best Reviewed Papers
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Best Reviewed Student Papers
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
 ### Face Biometrics
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Facial Expressions
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Human Pose and Motion
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Gait and Action
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Hand and Sign Language
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Animation, Synthesis and Self-Supervision
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Posters
+
+> Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+### Demo presentation
 
 > Will soon be added
 
