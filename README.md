@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 0/118 -->
+      <!-- 12/2/118 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/5?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -284,7 +284,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Face Biometrics
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Designing Cross-Race Tests for Forensic Facial Examiners, Super-Recognizers, and Face Recognition Algorithm | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| TetraLoss: Improving the Robustness of Face Recognition against Morphing Attacks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2401.11598-b31b1b.svg)](https://arxiv.org/abs/2401.11598) | :heavy_minus_sign: |
+| Hierarchical Generative Network for Face Morphing Attacks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.11101-b31b1b.svg)](https://arxiv.org/abs/2403.11101) | :heavy_minus_sign: |
+| Face Anti-Spoofing via Interaction Learning with Face Image Quality Alignment | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
