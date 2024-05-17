@@ -222,3 +222,27 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 > Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/FG-2024-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/FG-2024-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
+
+## Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+> Will soon be added
+
+---
+
+## Key Terms
+
+> Will soon be added
+
+---
+
+## Star History
+
+<p align="center">
+    <a href="https://star-history.com/#Dmitryryumin/FG-2024-Papers&Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/FG-2024-Papers&type=Date" alt="Star History Chart">
+    </a>
+<p>
