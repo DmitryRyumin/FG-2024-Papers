@@ -229,6 +229,9 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
+> [!important]
+> Final paper links will be added as soon as the [*proceedings*](https://www.computer.org/csdl/proceedings/1000065) are available.
+
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
