@@ -271,7 +271,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
-| **Title** | **Repo** | **Paper** | **Video** |
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
 | A Unified Model for Gaze Following and Social Gaze Prediction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.08318-b31b1b.svg)](https://arxiv.org/abs/2403.08318) | :heavy_minus_sign: |
