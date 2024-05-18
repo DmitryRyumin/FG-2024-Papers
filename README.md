@@ -96,6 +96,17 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
     </a>
 <p>
 
+<div style="float:left;">
+    <strong>Main</strong>
+    <br />
+    <img src="https://img.shields.io/badge/Total%20Papers-121-42BA16" alt="Total Papers" />
+    <img src="https://img.shields.io/badge/Preprint%20Papers-44%20(36.36%25)-b31b1b" alt="Preprint Papers" />
+    <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-25%20(20.66%25)%20*-1D7FBF" alt="Papers with Open Code" />
+    <img src="https://img.shields.io/badge/Papers%20with%20Video-0%20(0%25)%20*-FF0000" alt="Papers with Video" />
+</div>
+
+> :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
+
 ---
 
 > [!TIP]
