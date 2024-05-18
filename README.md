@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 45/2/118 -->
+      <!-- 57/2/118 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/19?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/24?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -314,7 +314,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Human Pose and Motion
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Uncalibrated Multi-View 3D Human Pose Estimation with Geometry Driven Attention | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2312.17106-b31b1b.svg)](https://arxiv.org/abs/2312.17106) | :heavy_minus_sign: |
+| BEAVP: A Bidirectional Enhanced Adversarial Model for Video Prediction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| CasCalib: Cascaded Calibration for Motion Capture from Sparse Unsynchronized Cameras | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0437869) <br /> [![GitHub](https://img.shields.io/github/stars/jamestang1998/CasCalib?style=flat)](https://github.com/jamestang1998/CasCalib) | [![arXiv](https://img.shields.io/badge/arXiv-2405.06845-b31b1b.svg)](https://arxiv.org/abs/2405.06845) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
@@ -322,7 +329,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Gait and Action
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Unveiling Gender Effects in Gait Recognition using Conditional-Matched Bootstrap Analysis | [![GitHub](https://img.shields.io/github/stars/azimIbragimov/gait-gender?style=flat)](https://github.com/azimIbragimov/gait-gender) | :heavy_minus_sign: | :heavy_minus_sign: |
+| GaitPT: Skeletons are All You Need for Gait Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10623-b31b1b.svg)](https://arxiv.org/abs/2308.10623) | :heavy_minus_sign: |
+| Attention Prompt Tuning: Parameter-Efficient Adaptation of Pre-trained Models for Action Recognition | [![GitHub](https://img.shields.io/github/stars/wgcban/apt?style=flat)](https://github.com/wgcban/apt) | [![arXiv](https://img.shields.io/badge/arXiv-2403.06978-b31b1b.svg)](https://arxiv.org/abs/2403.06978) | :heavy_minus_sign: |
+| ViewDiffGait: View Pyramid Diffusion for Gait Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
@@ -330,7 +344,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Hand and Sign Language
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Two Hands are Better than One: Resolving Hand to Hand Intersections via Occupancy Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.05414-b31b1b.svg)](https://arxiv.org/abs/2404.05414) | :heavy_minus_sign: |
+| SynthSL: Expressive Humans for Sign Language Image Synthesis | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Gloss-Free Sign Language Production with Discrete Representation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| In My Perspective, in My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition | [![GitHub](https://img.shields.io/github/stars/wiktormucha/effhandegonet?style=flat)](https://github.com/wiktormucha/effhandegonet) | [![arXiv](https://img.shields.io/badge/arXiv-2404.09308-b31b1b.svg)](https://arxiv.org/abs/2404.09308) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
