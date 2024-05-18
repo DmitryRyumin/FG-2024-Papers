@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 16/2/118 -->
+      <!-- 45/2/118 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/5?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/19?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -345,6 +345,8 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 </a>
 
 ### Posters
+
+![Section Papers](https://img.shields.io/badge/Section%20Papers-28-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-12-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
