@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 84/2/118 -->
+      <!-- 88/2/118 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/36?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/37?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -367,7 +367,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Posters
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-55-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-18-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-58-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-18-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
@@ -426,6 +426,9 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 | Quantifying Biometric Characteristics of Hand Gestures through Feature Space Probing and Identity-Level Cross-Gesture Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Hand Graph Topology Selection for Skeleton-based Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Unconstrained Hand Recognition using Thermal Infrared Sensing of Dorsal Veins | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Integrating a Hierarchical Structure of Situated Human Motion in Multi-Task Learning for Professional Gesture Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards High Fidelity and Accurate Face Swapping | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Face-based Strategies for Evaluating Asymmetry and Speech Articulation in Patients with Craniofacial Anomalies | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
@@ -433,11 +436,12 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Demo presentation
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-1-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-2-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
 | Russian Sign Language Learning Simulator | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Expanding PyAFAR: A Novel Privacy-Preserving Infant AU Detector | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ---
 
