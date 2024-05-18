@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 88/2/118 -->
+      <!-- 92/2/118 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/37?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/39?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -359,7 +359,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Animation, Synthesis and Self-Supervision
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| EAT-Face: Emotion-Controllable Audio-Driven Talking Face Generation via Diffusion Model | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Embedded Representation Learning Network for Animating Styled Video Portrait | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.19038-b31b1b.svg)](https://arxiv.org/abs/2404.19038) | :heavy_minus_sign: |
+| Giving a Hand to Diffusion Models: A Two-Stage Approach to Improving Conditional Human Image Generation | [![GitHub](https://img.shields.io/github/stars/apelykh/hand-to-diffusion?style=flat)](https://github.com/apelykh/hand-to-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2403.10731-b31b1b.svg)](https://arxiv.org/abs/2403.10731) | :heavy_minus_sign: |
+| RS-rPPG: Robust Self-Supervised Learning for rPPG | [![GitHub](https://img.shields.io/github/stars/marukosan93/RS-rPPG?style=flat)](https://github.com/marukosan93/RS-rPPG) | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
