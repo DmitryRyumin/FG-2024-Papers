@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 92/2/118 -->
+      <!-- 121/2/121 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/39?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/50?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -374,7 +374,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Posters
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-58-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-18-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-87-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-18-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
@@ -436,6 +436,35 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 | Integrating a Hierarchical Structure of Situated Human Motion in Multi-Task Learning for Professional Gesture Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Towards High Fidelity and Accurate Face Swapping | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Face-based Strategies for Evaluating Asymmetry and Speech Articulation in Patients with Craniofacial Anomalies | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention | [![GitHub](https://img.shields.io/github/stars/praveena2j/RJCAforSpeakerVerification?style=flat)](https://github.com/praveena2j/RJCAforSpeakerVerification) | [![arXiv](https://img.shields.io/badge/arXiv-2403.04654-b31b1b.svg)](https://arxiv.org/abs/2403.04654) | :heavy_minus_sign: |
+| VoxAtnNet: A 3D Point Clouds Convolutional Neural Network for Generalizable Face Presentation Attack Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.12680-b31b1b.svg)](https://arxiv.org/abs/2404.12680) | :heavy_minus_sign: |
+| Multi-View Consistent 3D GAN Inversion via Bidirectional Encoder | [![GitHub](https://img.shields.io/github/stars/WHZMM/BiDiE?style=flat)](https://github.com/WHZMM/BiDiE) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Context-based Dataset for Analysis of Videos of Autistic Children | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Seeing and Hearing what has not been Said; A Multimodal Client Behavior Classifier in Motivational Interviewing with Interpretable Fusion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.14398-b31b1b.svg)](https://arxiv.org/abs/2309.14398) | :heavy_minus_sign: |
+| SignAvatar: Sign Language 3D Motion Reconstruction and Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dongludeeplearning.github.io/SignAvatar.html) | [![arXiv](https://img.shields.io/badge/arXiv-2405.07974-b31b1b.svg)](https://arxiv.org/abs/2405.07974) | :heavy_minus_sign: |
+| PortraitDAE: Line-Drawing Portraits Style Transfer from Photos via Diffusion Autoencoder with Meaningful Encoded Noise | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| FE-Adapter: Adapting Image-based Emotion Classifiers to Videos | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Latent Embedding Clustering for Occlusion Robust Head Pose Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.20251-b31b1b.svg)](https://arxiv.org/abs/2403.20251) | :heavy_minus_sign: |
+| Pivotal Tuning Editing: Towards Disentangled Wrinkle Editing with GANs | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Data-Driven but Privacy-Conscious: Pedestrian Dataset De-Identification via Full-Body Person Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11710-b31b1b.svg)](https://arxiv.org/abs/2306.11710) | :heavy_minus_sign: |
+| CrossGaze: A Strong Method for 3D Gaze Estimation in the Wild | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2402.08316-b31b1b.svg)](https://arxiv.org/abs/2402.08316) | :heavy_minus_sign: |
+| Survey of Automated Methods for Nonverbal Behavior Analysis in Parent-Child Interactions | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Naive Data Augmentation Might be Toxic: Data-Prior Guided Self-Supervised Representation Learning for Micro-Gesture Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| SMCTL: Subcarrier Masking Contrastive Transfer Learning for Human Gesture Recognition with Passive Wi-Fi Sensing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Semantic-Aware Detail Enhancement for Blind Face Restoration | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models | [![GitHub](https://img.shields.io/github/stars/JonasLoos/h-space-directions?style=flat)](https://github.com/JonasLoos/h-space-directions) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11073-b31b1b.svg)](https://arxiv.org/abs/2303.11073) | :heavy_minus_sign: |
+| Breaking Template Protection: Reconstruction of Face Images from Protected Facial Templates | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Benchmarking Skeleton-based Motion Encoder Models for Clinical Applications: Estimating Parkinson's Disease Severity in Walking Sequences | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| The Seven Faces of Stress: Understanding Facial Activity Patterns during Cognitive Stress | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Visual Coherence Face Anonymization Algorithm based on Dynamic Identity Perception | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| PyraMoT: A Novel Framework for Enhanced Facial Thermal Landmarks Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Visual Saliency Guided Gaze Target Estimation with Limited Labels | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Hyp-OC: Hyperbolic One Class Classifier for Face Anti-Spoofing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Dynamic Cross Attention for Audio-Visual Person Verification | [![GitHub](https://img.shields.io/github/stars/praveena2j/DCAforPersonVerification?style=flat)](https://github.com/praveena2j/DCAforPersonVerification) | [![arXiv](https://img.shields.io/badge/arXiv-2403.04661-b31b1b.svg)](https://arxiv.org/abs/2403.04661) | :heavy_minus_sign: |
+| Enhancing Privacy in Face Analytics using Fully Homomorphic Encryption | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.16255-b31b1b.svg)](https://arxiv.org/abs/2404.16255) | :heavy_minus_sign: |
+| CribNet: Enhancing Infant Safety in Cribs through Vision-based Hazard Detection | [![GitHub](https://img.shields.io/github/stars/ostadabbas/CribNet?style=flat)](https://github.com/ostadabbas/CribNet) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 3D Face Morphing Attack Generation using Non-Rigid Registration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.15765-b31b1b.svg)](https://arxiv.org/abs/2404.15765) | :heavy_minus_sign: |
+| BTVSL: A Novel Sentence-Level Annotated Dataset for Bangla Sign Language Translation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
