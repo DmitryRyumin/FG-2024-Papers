@@ -374,7 +374,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Posters
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-87-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-18-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-87-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-29-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-17-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
