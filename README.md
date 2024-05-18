@@ -77,7 +77,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 12/2/118 -->
+      <!-- 16/2/118 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/5?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -346,7 +346,36 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Posters
 
-> Will soon be added
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Efficient Verification-based Face Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2312.13240-b31b1b.svg)](https://arxiv.org/abs/2312.13240) | :heavy_minus_sign: |
+| Dataset Infant Anonymization with Pose and Emotion Retention | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Face the Needle: Predicting Risk of Fear and Fainting During Blood Donation through Video Analysis | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Intra-Person Camera Adversarial for Intra-Camera Supervised Person Re-Identification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Adaptive Cross-Architecture Mutual Knowledge Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ASPECD: Adaptable Soft-Biometric Privacy-Enhancement using Centroid Decoding for Face Verification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Young Labeled Faces in the Wild (YLFW): A Dataset for Children Faces Recognition | [![GitHub](https://img.shields.io/github/stars/visteam-isr-uc/YLFW?style=flat)](https://github.com/visteam-isr-uc/YLFW) | [![arXiv](https://img.shields.io/badge/arXiv-2301.05776-b31b1b.svg)](https://arxiv.org/abs/2301.05776) | :heavy_minus_sign: |
+| Deepfake: Classifiers, Fairness, and Demographically Robust Algorithm | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| PointFaceFormer: Local and Global Attention based Transformer for 3D Point Cloud Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Subject-based Domain Adaptation for Facial Expression Recognition | [![GitHub](https://img.shields.io/github/stars/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER?style=flat)](https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER) | [![arXiv](https://img.shields.io/badge/arXiv-2312.05632-b31b1b.svg)](https://arxiv.org/abs/2312.05632) | :heavy_minus_sign: |
+| Efficient Detection of Disguised Faces using Photos/Sketches from Low-Quality Surveillance Footage | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Lip and Speech Synchronization using Supervised Contrastive Learning and Cross-Modal Attention | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| If it's not Enough, Make it so: Reducing Authentic Data Demand in Face Recognition through Synthetic Faces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.03537-b31b1b.svg)](https://arxiv.org/abs/2404.03537) | :heavy_minus_sign: |
+| Data Augmentation Techniques for Enhanced Facial Landmarks Detection in Patients with Repaired Cleft Lip and Palate | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Deep Adaptative Spectral Zoom for Improved Remote Heart Rate Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.06902-b31b1b.svg)](https://arxiv.org/abs/2403.06902) | :heavy_minus_sign: |
+| Bridging the Gap: Protocol Towards Fair and Consistent Affect Analysis | [![GitHub](https://img.shields.io/github/stars/dkollias/Fair-Consistent-Affect-Analysis?style=flat)](https://github.com/dkollias/Fair-Consistent-Affect-Analysis) | [![arXiv](https://img.shields.io/badge/arXiv-2405.06841-b31b1b.svg)](https://arxiv.org/abs/2405.06841) | :heavy_minus_sign: |
+| ONOT: a High-Quality ICAO-Compliant Synthetic Mugshot Dataset | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://miatbiolab.csr.unibo.it/icao-synthetic-dataset/) | [![arXiv](https://img.shields.io/badge/arXiv-2404.11236-b31b1b.svg)](https://arxiv.org/abs/2404.11236) | :heavy_minus_sign: |
+| RFIS-FPI: Reversible Face Image Steganography Neural Network for Face Privacy Interactions | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Unlocking the Black Box: Concept-based Modeling for Interpretable Affective Computing Applications | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Social-MAE: A Transformer-based Multimodal Autoencoder for Face and Voice | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues | [![GitHub](https://img.shields.io/github/stars/sbelharbi/interpretable-fer-aus?style=flat)](https://github.com/sbelharbi/interpretable-fer-aus) | [![arXiv](https://img.shields.io/badge/arXiv-2402.00281-b31b1b.svg)](https://arxiv.org/abs/2402.00281) | :heavy_minus_sign: |
+| AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| QGFace: Quality-Guided Joint Training for Mixed Quality Face Recognition | [![GitHub](https://img.shields.io/github/stars/IsidoreSong/QGFace?style=flat)](https://github.com/IsidoreSong/QGFace) | [![arXiv](https://img.shields.io/badge/arXiv-2312.17494-b31b1b.svg)](https://arxiv.org/abs/2312.17494) | :heavy_minus_sign: |
+| EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition | [![GitHub](https://img.shields.io/github/stars/NickyFot/EmoCLIP?style=flat)](https://github.com/NickyFot/EmoCLIP) | [![arXiv](https://img.shields.io/badge/arXiv-2310.16640-b31b1b.svg)](https://arxiv.org/abs/2310.16640) | :heavy_minus_sign: |
+| In-Domain Inversion for Improved 3D Face Alignment on Asymmetrical Expressions | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| 3D Face Modeling via Weakly-Supervised Disentanglement Network Joint Identity-Consistency Prior | [![GitHub](https://img.shields.io/github/stars/liguohao96/WSDF?style=flat)](https://github.com/liguohao96/WSDF) | [![arXiv](https://img.shields.io/badge/arXiv-2404.16536-b31b1b.svg)](https://arxiv.org/abs/2404.16536) | :heavy_minus_sign: |
+| Expression-Aware Masking and Progressive Decoupling for Cross-Database Facial Expression Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Explainable Face Verification via Feature-Guided Gradient Backpropagation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.04549-b31b1b.svg)](https://arxiv.org/abs/2403.04549) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
@@ -354,7 +383,11 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Demo presentation
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-1-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Russian Sign Language Learning Simulator | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ---
 
