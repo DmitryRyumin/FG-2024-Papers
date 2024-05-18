@@ -299,7 +299,14 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Facial Expressions
 
-> Will soon be added
+![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
+|-----------|:--------:|:---------:|:---------:|
+| Multi-Scale Spatio-Temporal Graph Convolutional Network for Facial Expression Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.15994-b31b1b.svg)](https://arxiv.org/abs/2403.15994) | :heavy_minus_sign: |
+| epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition | [![GitHub](https://img.shields.io/github/stars/batuceng/e-mesh-attack?style=flat)](https://github.com/batuceng/e-mesh-attack) | [![arXiv](https://img.shields.io/badge/arXiv-2403.06661-b31b1b.svg)](https://arxiv.org/abs/2403.06661) | :heavy_minus_sign: |
+| Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport | [![GitHub](https://img.shields.io/github/stars/haseebaslam95/PKDOT?style=flat)](https://github.com/haseebaslam95/PKDOT) | [![arXiv](https://img.shields.io/badge/arXiv-2401.15489-b31b1b.svg)](https://arxiv.org/abs/2401.15489) | :heavy_minus_sign: |
+| CSTalk: Correlation Supervised Speech-Driven 3D Emotional Facial Animation Generation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.18604-b31b1b.svg)](https://arxiv.org/abs/2404.18604) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
