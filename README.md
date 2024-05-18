@@ -367,7 +367,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Posters
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-55-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-12-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-55-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-18-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
@@ -423,7 +423,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 | Patch-based Privacy Attention for Weakly-Supervised Privacy-Preserving Action Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Boosting Gesture Recognition with an Automatic Gesture Annotation Framework | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Towards Better Communication: Refining Hand Pose Estimation in Low-Resolution Sign Language Videos | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Quantifying Biometric Characteristics of Hand Gestures through Feature Space Probing and Identity-Level Cross-Gesture Disentanglement |  |  |  |
+| Quantifying Biometric Characteristics of Hand Gestures through Feature Space Probing and Identity-Level Cross-Gesture Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Hand Graph Topology Selection for Skeleton-based Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Unconstrained Hand Recognition using Thermal Infrared Sensing of Dorsal Veins | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
