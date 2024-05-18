@@ -494,7 +494,9 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ## Key Terms
 
-> Will soon be added
+<p align="center">
+    <img width="500" src="https://github.com/DmitryRyumin/FG-2024-Papers/blob/main/images/Keywords.png" alt="Key Terms">
+<p>
 
 ---
 
