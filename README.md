@@ -77,9 +77,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 57/2/118 -->
+      <!-- 84/2/118 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/24?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/36?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -367,7 +367,7 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 
 ### Posters
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-28-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-12-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-55-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-12-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /> | <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /> |
 |-----------|:--------:|:---------:|:---------:|
@@ -399,6 +399,33 @@ FG 2024 Papers: Explore a comprehensive collection of innovative research papers
 | 3D Face Modeling via Weakly-Supervised Disentanglement Network Joint Identity-Consistency Prior | [![GitHub](https://img.shields.io/github/stars/liguohao96/WSDF?style=flat)](https://github.com/liguohao96/WSDF) | [![arXiv](https://img.shields.io/badge/arXiv-2404.16536-b31b1b.svg)](https://arxiv.org/abs/2404.16536) | :heavy_minus_sign: |
 | Expression-Aware Masking and Progressive Decoupling for Cross-Database Facial Expression Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Explainable Face Verification via Feature-Guided Gradient Backpropagation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2403.04549-b31b1b.svg)](https://arxiv.org/abs/2403.04549) | :heavy_minus_sign: |
+| One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.19542-b31b1b.svg)](https://arxiv.org/abs/2404.19542) | :heavy_minus_sign: |
+| Skeleton-based Self-Supervised Feature Extraction for Improved Dynamic Hand Gesture Recognition | [![GitHub](https://img.shields.io/github/stars/o-ikne/SkelMAE?style=flat)](https://github.com/o-ikne/SkelMAE) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Human Action Recognition with Multi-Level Granularity and Pair-Wise Hyper GCN | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MGRFormer: A Multimodal Transformer Approach for Surgical Gesture Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| CCDb-HG: Novel Annotations and Gaze-Aware Representations for Head Gesture Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| GestSpoof: Gesture based Spatio-Temporal Representation Learning for Robust Fingerprint Presentation Attack Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Spatio Temporal Sparse Graph Convolution Network for Hand Gesture Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Crowd Detection via Point Localization with Diffusion Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MIMIC-Pose: Implicit Membership Discrimination of Body Joints for Human Pose Estimation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| DPA-2D: Depth Propagation and Alignment with 2D Observations Guidance for Human Mesh Recovery | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Evaluating Recent 2D Human Pose Estimators for 2D-3D Pose Lifting | [![GitHub](https://img.shields.io/github/stars/TaatiTeam/2DEstimatorEval?style=flat)](https://github.com/TaatiTeam/2DEstimatorEval) | :heavy_minus_sign: | :heavy_minus_sign: |
+| The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2402.08320-b31b1b.svg)](https://arxiv.org/abs/2402.08320) | :heavy_minus_sign: |
+| Improving 2D Human Pose Estimation in Unseen Camera Views with Synthetic Data | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| DualH: A Dual Hierarchical Model for Temporal Action Localization | [![GitHub](https://img.shields.io/github/stars/zz202/DualH?style=flat)](https://github.com/zz202/DualH) | :heavy_minus_sign: | :heavy_minus_sign: |
+| HR-xNet: A Novel High-Resolution Network for Human Pose Estimation with Low Resource Consumption | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Cross-Block Fine-Grained Semantic Cascade for Skeleton-based Sports Action Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.19383-b31b1b.svg)](https://arxiv.org/abs/2404.19383) | :heavy_minus_sign: |
+| HM-Auth: Redefining User Authentication in Immersive Virtual World through Hand Movement Signatures | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Data-Driven Representation for Sign Language Production | [![GitHub](https://img.shields.io/github/stars/walsharry/VQ_SLP_Demos?style=flat)](https://github.com/walsharry/VQ_SLP_Demos) | [![arXiv](https://img.shields.io/badge/arXiv-2404.11499-b31b1b.svg)](https://arxiv.org/abs/2404.11499) | :heavy_minus_sign: |
+| Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2401.06563-b31b1b.svg)](https://arxiv.org/abs/2401.06563) | :heavy_minus_sign: |
+| Transfer Learning for Cross-Dataset Isolated Sign Language Recognition in Under-Resourced Datasets | [![GitHub](https://img.shields.io/github/stars/alpk/tid-supervised-transfer-learning-dataset?style=flat)](https://github.com/alpk/tid-supervised-transfer-learning-dataset) | [![arXiv](https://img.shields.io/badge/arXiv-2403.14534-b31b1b.svg)](https://arxiv.org/abs/2403.14534) | :heavy_minus_sign: |
+| Patch-based Privacy Attention for Weakly-Supervised Privacy-Preserving Action Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Boosting Gesture Recognition with an Automatic Gesture Annotation Framework | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards Better Communication: Refining Hand Pose Estimation in Low-Resolution Sign Language Videos | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Quantifying Biometric Characteristics of Hand Gestures through Feature Space Probing and Identity-Level Cross-Gesture Disentanglement |  |  |  |
+| Hand Graph Topology Selection for Skeleton-based Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Unconstrained Hand Recognition using Thermal Infrared Sensing of Dorsal Veins | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
